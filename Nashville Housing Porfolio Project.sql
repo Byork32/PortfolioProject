@@ -24,7 +24,6 @@ Update NashvilleHousing
 SET SaleDateConverted = CONVERT(Date,SaleDate)
 
 
- --------------------------------------------------------------------------------------------------------------------------
 
 -- Populate Property Address Data
 
